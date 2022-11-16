@@ -247,7 +247,9 @@ class Hospital {
 
 ![](./assets/constructor_overloading_java.png)
 
-### 10. Nạp chồng phương thức và ghi đè phương thức trong Java?
+### 10. Nạp chồng phương thức và ghi đè phương thức trong Java? 
+// (overloading): [Các phương thức KHÁC tham số truyền vào và được viết cùng ở 1 lớp]
+// (override): [Các phương thức CÙNG tham số truyền vào và được viết ở CÁC LỚP KHÁC NHAU (lớp cha - con)]
 
 Trong Java, việc **nạp chồng phương thức (overloading)** được thực hiện bằng cách đưa các phương thức khác nhau vào cùng một lớp có cùng tên. Tuy nhiên, tất cả các hàm khác nhau về số lượng hoặc kiểu tham số. Nó diễn ra bên trong một lớp và nâng cao khả năng đọc của chương trình.
 
