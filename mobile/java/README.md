@@ -338,7 +338,7 @@ Trong Java, từ khoá `final` được dùng cho xác định một thứ gì �
     - Một phương thức được khai báo là final nó sẽ không thể bị ghi đè bởi lớp con của nó.
     - Một constructor không thể là final vì nếu một lớp được kế thừa thì constructor cũng kế thừa theo. Do đó, khi đánh dấu constructor là final, Java sẽ trả về lỗi - `modifier final not allowed here`
 - lớp `final`:
-    - Một lớp được khai báo là final thì không có bất kỳ lớp nào có thể kế thừa lớp đó. 
+    - Một lớp được khai báo là final thì không có bất kỳ lớp nào có thể kế thừa + ghì đè lớp đó. 
 
 ### 13. Các từ khoá final, finally và finalize là giống nhau?
 
