@@ -205,8 +205,12 @@ Người ta có thể hình dung đóng gói là phương pháp đưa mọi th�
 
 ### 12. Tính đa hình là gì?
 
-Đa hình đề cập đến một thứ có thể có nhiều hình dạng.
-Overide - Overload: là 1 dạng đa hình: 1 tác vụ(hàm, phương thức) có nhiều cách thể hiện khác nhau
+Đa hình đề cập đến một thứ có thể có nhiều hình dạng. 
+
+=> Một biến thuộc kiểu dữ liệu của lớp cha tham chiếu đến 1 đối tượng của lớp con.
+
+- Overide - Overload: là 1 dạng đa hình: 1 tác vụ (hàm, phương thức) có nhiều cách thể hiện khác nhau
+
 
 ![](./assets/polymorphism.png)
 
